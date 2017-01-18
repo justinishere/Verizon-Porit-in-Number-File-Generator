@@ -1,5 +1,5 @@
 # Verizon Toll-free Number Port-in Filer Generator
-## This is a R-Shiny application created to accelerate batch toll-free number port-in process to Verizon for Network Operation team of ThinQ,Inc. The download file can be directly uploaded to Verizon website for port-in.
+### This is a R-Shiny application created to accelerate batch toll-free number port-in process to Verizon for Network Operation team of ThinQ,Inc. The download file can be directly uploaded to Verizon website for port-in.
 
 
 
@@ -18,7 +18,7 @@
 ### To run the R Shiny app through R, run the following commands in R:
 
 library(shiny)
-runGitHub( "<Verizon-Porit-in-Number-File-Generator>", "<wwzjustin>") 
+runGitHub( "Verizon-Porit-in-Number-File-Generator", "wwzjustin") 
 
 
 
