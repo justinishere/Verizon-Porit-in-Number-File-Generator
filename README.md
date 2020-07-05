@@ -8,7 +8,6 @@ https://wwzjustin.shinyapps.io/shiny_app/?_ga=2.266537614.1643041082.1593937582-
 ### This is a R-Shiny application created to accelerate batch toll-free number port-in process to Verizon for Network Operation team of ThinQ,Inc. The download file can be directly uploaded to Verizon website for port-in.
 
 
-###This is a line from Rstudio
 
 ```markdown
 
